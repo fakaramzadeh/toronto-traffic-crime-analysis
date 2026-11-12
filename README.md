@@ -3,6 +3,7 @@
 An analysis of City of Toronto open data that explores traffic patterns on King Street, major crime trends across the city, and the relationship between traffic volume and crime.
 
 **Tools:** SQL Server · Tableau · Python · CSV
+
 **Author:** Faezeh Karam Zadehshiri, Data Analyst · March 2025
 
 ## Objective
